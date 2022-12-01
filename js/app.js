@@ -1,6 +1,3 @@
-
-alert("Acesse:www.xvideos.com!");
-
 // Debounce do Lodash
 debounce = function(func, wait, immediate) {
 	var timeout;

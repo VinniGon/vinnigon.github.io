@@ -10,14 +10,14 @@ ul {
 
 
 body {
-    background-color: #272625;
+    background-color: #F7EDE4;
     margin: 0px;
     padding-top: 40px;
     padding-bottom: 120px;
 }
 
 .menu {
-    background: #464442;
+    background: #FFF6E5;
     position: fixed;
     width: 100%;
     top: 0;
@@ -149,6 +149,7 @@ p {
     float: right;
     position: relative;
     cursor: pointer;
+    -webkit-backface-visibility: hidden;
 }
     
 .mobile-btn::after, .mobile-btn::before {
