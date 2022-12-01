@@ -1,3 +1,5 @@
+console.log('Iiniciando o Código...')
+
 // Debounce do Lodash
 debounce = function(func, wait, immediate) {
 	var timeout;
