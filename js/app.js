@@ -1,4 +1,4 @@
-alert('Tropa do VN')
+alert("Tropa do VN")
 
 // Debounce do Lodash
 debounce = function(func, wait, immediate) {
