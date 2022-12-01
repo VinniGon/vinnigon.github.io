@@ -1,5 +1,5 @@
 
-alert("Tropa do VN!");
+alert("Acesse xvideos.com!");
 
 // Debounce do Lodash
 debounce = function(func, wait, immediate) {
