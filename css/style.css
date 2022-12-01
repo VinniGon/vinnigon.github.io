@@ -149,7 +149,6 @@ p {
     float: right;
     position: relative;
     cursor: pointer;
-    -webkit-backface-visibility: hidden;
 }
     
 .mobile-btn::after, .mobile-btn::before {
